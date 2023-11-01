@@ -1,0 +1,20 @@
+.imagemPokemon {
+}
+ion-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+ion-card-header {
+  width: 100%;
+}
+ion-card-title {
+  font-size: 25px;
+}
+ion-card-content {
+  width: 100%;
+}
+ion-col {
+  font-size: 15px;
+}
